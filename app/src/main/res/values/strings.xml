@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ocean Smith</string>
+    <string name="img_gal">Image Gallery</string>
+    <string name="sure_to_exit">Sure To Exit</string>
+    <string name="no">No</string>
+    <string name="yes_exit">Yes, Exit</string>
+    <string name="net_err">Network Error</string>
+    <string name="click_to_retry">Click To Retry</string>
+    <string name="empty_gallery">No Gallery For Selected Item\nClick To Go Back</string>
+</resources>
