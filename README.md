@@ -1,5 +1,6 @@
 # OceanSmith
-Ocean Smith Assessment 
+Ocean Smith Assessment
+
 Download and install the Ocean Smith.apk file from the master branch to test the application
 
 Libraries Used
